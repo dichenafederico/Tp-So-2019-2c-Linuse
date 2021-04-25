@@ -1,0 +1,5 @@
+-f -o direct_io  -d /home/utnso/pruebaFS/tmp/
+
+
+flag extra para el compile
+-D_FILE_OFFSET_BITS=64
